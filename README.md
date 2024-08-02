@@ -1,6 +1,6 @@
 <h1 align="center">Hey, welcome to my profile. 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-My name is<a href="https://t.me/AnisimovDmitryJava" target="_blank"> Dmitry</a> and I`m Java backend developer.</h1>
+My name is<a href="https://t.me/AnisimovDmitryJava" target="_blank"> Dmitry</a></h1>  I`m Java backend developer.
 
 <!--
 **DmitryAnisimovJava/DmitryAnisimovJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
